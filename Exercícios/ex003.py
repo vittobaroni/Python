@@ -1,4 +1,4 @@
-#soma entre dois números que o usuário digita
+# Soma entre dois números que o usuário digita
 
 n1 = int(input('Digite um valor: '))
 n2 = int(input('Digite outro valor: '))
